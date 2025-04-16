@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<h3 align="center">Lifelong learner and tech explorer from 🇰🇬 | More you learn, more you earn...</h3>
+
 <table align="center">
   <tr>
     <td>
@@ -25,7 +27,6 @@
   </tr>
 </table>
 
-<h3 align="center">Lifelong learner and tech explorer from 🇰🇬 | More you learn, more you earn...</h3>
 
 ---
 
