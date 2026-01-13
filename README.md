@@ -19,11 +19,7 @@
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shumkar-barpiev&theme=radical" />
-    </td>
-    <td valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shumkar-barpiev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="shumkar-barpiev" />
-    </td>
-   
+    </td>   
   </tr>
 </table>
 
